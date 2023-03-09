@@ -1,4 +1,4 @@
 # HogwartsDeckOptimizer
 Optimizations for Hogwarts Legacy on the Steam Deck
 
-Update on 3/8/2023: I have deleted these fixes for now as the latest version of the game seems to break them.
+Update on 3/8/2023: These .ini tweaks seem to still benefit the performance of the game even on the latest patch.
