@@ -1,4 +1,4 @@
-# HogwartsDeckOptimizer
+# HogwartsLegacyOptimizer
 Optimizations for Hogwarts Legacy on the Steam Deck, based on the Ascendio mod. These tweaks work in many Unreal Engine 4 games and make them significantly smoother.
 
 Update on 3/8/2023: These .ini tweaks seem to still benefit the performance of the game even on the latest patch.
