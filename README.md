@@ -5,7 +5,7 @@ Update on 3/8/2023: These .ini tweaks seem to still benefit the performance of t
 
 **Automatic Method (only for Steam Deck):**
 
-Download the HogwartsDeckOptimizer-V02.sh file, right click on it > properties > permissions > check the box for "is executable."
+Download the [Release](https://github.com/sevansup/HogwartsLegacyOptimizer/releases), unzip the .zip file. Select the HogwartsDeckOptimizer-V02.sh file, right click on it > properties > permissions > check the box for "is executable."
 Then just click and run it.
 
 **Manual Method (works on Windows too):**
